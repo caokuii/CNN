@@ -1,4 +1,4 @@
-# 炼丹笔记
+# CNN炼丹笔记
 
 ## 1基于Pytorch实现LeNet5和AlexNet
 
